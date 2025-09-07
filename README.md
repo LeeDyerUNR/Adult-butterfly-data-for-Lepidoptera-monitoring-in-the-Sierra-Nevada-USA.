@@ -8,7 +8,7 @@ zones_2019to2024.csv
 
 
 #############################
-## PA_1972to2024_AllSites.csv
+## PA_1972to2024_AllSites.csv (split into 5 equal parts)
 #############################
 
 This is our core data, consisting of presence and absence observations conducted biweekly for 163 species of butterflies across 11 sites, forming a roughly east-west transect across Northern California and into western Nevada. Columns of data are detailed below.
@@ -31,7 +31,7 @@ Observer: initials of individual recording observations.
 
 
 #############################
-## counts_1999to2024.csv
+## counts_1999to2024.csv (split into 2 equal parts)
 #############################
 
 For the 5 lower-elevation sites, counts of individuals have been recorded, in addition to presence and absence. The structure of this file is identical to the previous (see description of PA_1972to2024_AllSites.csv), with the exception that there is now a "count" column (counts of individuals), and the column for ordinal date is labelled as "day" rather than "ordDate."
